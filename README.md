@@ -4,34 +4,36 @@ A lightweight, educational command-line tool written in Python 3 that demonstrat
 
 ✨ Features
 
-      Password Strength Checker
+Password Strength Checker:
 
-      Estimates strength on a 0–100 scale
+Estimates strength on a 0–100 scale
 
-      Calculates entropy (bits) and rough brute-force crack time
+Calculates entropy (bits) and rough brute-force crack time
 
-      Provides improvement tips (length, symbols, digits, etc.)
+Provides improvement tips (length, symbols, digits, etc.)
 
-Strong Password Generator
+Strong Password Generator:
 
-     Creates secure random passwords (8–128 characters)
+Creates secure random passwords (8–128 characters)
 
-     Configurable: uppercase, lowercase, digits, symbols
+Configurable: uppercase, lowercase, digits, symbols
 
-    Option to save generated passwords to a file
+Option to save generated passwords to a file
 
-String Hasher
+String Hasher:
 
-    Hash any string with MD5, SHA1, SHA256, or SHA512
+Hash any string with MD5, SHA1, SHA256, or SHA512
 
-    Optional salt for stronger uniqueness
+Optional salt for stronger uniqueness
 
-    Saves results as JSON lines if desired
+Saves results as JSON lines if desired
 
-Mock Login Simulator
+Mock Login Simulator:
 
-    Local demo of a username/password login system
+Local demo of a username/password login system
 
-    Shows incorrect attempt handling, lockouts, and cooldowns
+Shows incorrect attempt handling, lockouts, and cooldowns
 
-    Useful for illustrating rate-limiting concepts
+Useful for illustrating rate-limiting concepts
+
+   
