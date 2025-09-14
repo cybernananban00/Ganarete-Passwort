@@ -38,7 +38,7 @@ Useful for illustrating rate-limiting concepts
 
 INSTALL :
 
-      https://github.com/cybernananban00/Ganarete-Passwort.git
+      git clone https://github.com/cybernananban00/Ganarete-Passwort.git
       cd Ganarete-Passwort
       chmod +x password.py
       python3 password.py
