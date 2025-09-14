@@ -40,7 +40,6 @@ INSTALL :
 
       https://github.com/cybernananban00/Ganarete-Passwort.git
       cd safe-cli-toolkit
-      Make the script executable (Linux/macOS)
       chmod +x safe_cli_toolkit.py
       python3 safe_cli_toolkit.py
 
